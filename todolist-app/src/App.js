@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import TodoList from './components/TodoList.js';
+import { AppBar, Toolbar, Typography, Paper } from '@material-ui/core';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+    render() {
+        return (
+            <Paper
+                elevation={0}
+                style={{ padding: 0, margin: 0, backgroundColor: '#fafafa' }}
+            >
+                <AppBar color="primary" position="static" style={{ height: 64 }}>
+                    <Toolbar style={{ height: 64 }}>
+                        <Typography color="inherit">TodoList</Typography>
+                    </Toolbar>
+                </AppBar>
+                <TodoList/>
+                <TodoList/>
+            </Paper>
+        )
+    }
 }
 
 export default App;
