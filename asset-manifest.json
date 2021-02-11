@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/%7BreactFirstSteps%7D/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/%7BreactFirstSteps%7D/static/js/main.11cdf685.chunk.js",
-    "main.js.map": "/%7BreactFirstSteps%7D/static/js/main.11cdf685.chunk.js.map",
-    "runtime-main.js": "/%7BreactFirstSteps%7D/static/js/runtime-main.ea9eaa44.js",
-    "runtime-main.js.map": "/%7BreactFirstSteps%7D/static/js/runtime-main.ea9eaa44.js.map",
-    "static/js/2.7c1b0342.chunk.js": "/%7BreactFirstSteps%7D/static/js/2.7c1b0342.chunk.js",
-    "static/js/2.7c1b0342.chunk.js.map": "/%7BreactFirstSteps%7D/static/js/2.7c1b0342.chunk.js.map",
-    "index.html": "/%7BreactFirstSteps%7D/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/%7BreactFirstSteps%7D/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.7c1b0342.chunk.js.LICENSE.txt": "/%7BreactFirstSteps%7D/static/js/2.7c1b0342.chunk.js.LICENSE.txt"
+    "main.css": "/reactFirstSteps/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactFirstSteps/static/js/main.11cdf685.chunk.js",
+    "main.js.map": "/reactFirstSteps/static/js/main.11cdf685.chunk.js.map",
+    "runtime-main.js": "/reactFirstSteps/static/js/runtime-main.30bda612.js",
+    "runtime-main.js.map": "/reactFirstSteps/static/js/runtime-main.30bda612.js.map",
+    "static/js/2.7c1b0342.chunk.js": "/reactFirstSteps/static/js/2.7c1b0342.chunk.js",
+    "static/js/2.7c1b0342.chunk.js.map": "/reactFirstSteps/static/js/2.7c1b0342.chunk.js.map",
+    "index.html": "/reactFirstSteps/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/reactFirstSteps/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7c1b0342.chunk.js.LICENSE.txt": "/reactFirstSteps/static/js/2.7c1b0342.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea9eaa44.js",
+    "static/js/runtime-main.30bda612.js",
     "static/js/2.7c1b0342.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.11cdf685.chunk.js"
